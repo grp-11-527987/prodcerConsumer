@@ -1,0 +1,14 @@
+Idea 1:
+
+    Ticket booking counter problem
+  =================================  
+-) There are 5 ticket booking counter,and each counter is ready for booking ticket.
+  But at a time only one counter can book the ticket.
+  And rest of the counter wait for that counter who is now working.
+  When it finish the booking than another counter can book ticket
+  of another seat.
+
+-) At a time only one counter can book a particular seat and the rest of the counter can not book that seat.
+  
+-) When booking is finish  for any seat then it relase the process for another ticket.
+      
